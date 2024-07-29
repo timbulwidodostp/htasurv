@@ -1,5 +1,28 @@
-d 'DEA': Data envelopment analysis
+d 'htasurv': Fit alternative parametric survival distributions and report goodness-of-fit statistics for health economic evaluations Use htasurv (distfind And distanalysis) With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _eststo.ado
+f _eststo.hlp
+f distanalysis.ado
+f distanalysis.sthlp
+f distboot.ado
+f distfind.ado
+f distfind.sthlp
+f distfindmcm.ado
+f distoutmix.ado
+f distoutput.ado
+f distoutput.sthlp
+f distplot.ado
+f distplot_at.ado
+f estadd.ado
+f estadd.hlp
+f estout.ado
+f estout.hlp
+f estpost.ado
+f estpost.hlp
+f eststo.ado
+f eststo.hlp
+f esttab.ado
+f esttab.hlp
+f htasurv.sthlp
+f mat2txt.ado
+f mat2txt.hlp
