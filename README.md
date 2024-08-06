@@ -5,6 +5,8 @@ Fit alternative parametric survival distributions and report statistics relevant
 
 Report results of parametric survival analysis for use in health technology assessment Use distanalysis With STATA 18
 
+https://www.youtube.com/watch?v=AumnZifpuLw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
